@@ -326,27 +326,27 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url('../img/angela.png');
+    background: #fff url('../img/angela.PNG');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #fff url('../img/tianluo.png');
+    background: #fff url('../img/tianluo.PNG');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/neelima.png');
+    background: #fff url('../img/neelima.PNG');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #fff url('../img/austin.png');
+    background: #fff url('../img/austin.PNG');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/inese.png');
+    background: #fff url('../img/inese.PNG');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #fff url('../img/dooyoung.png');
+    background: #fff url('../img/dooyoung.PNG');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #fff url('../img/john.png');
+    background: #fff url('../img/john.PNG');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -354,7 +354,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #fff url('../img/sunku.png');
+    background: #fff url('../img/sunku.PNG');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -362,7 +362,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #fff url('../img/cuyue.png');
+    background: #fff url('../img/cuyue.PNG');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -370,7 +370,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/bruce.png');
+    background: #fff url('../img/bruce.PNG');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
